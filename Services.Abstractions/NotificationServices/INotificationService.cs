@@ -1,8 +1,7 @@
 ﻿using Core.Entity;
 using Services.Contracts.Notification;
-using Services.Contracts.NotificationDto;
 
-namespace Services.Abstractions;
+namespace Services.Abstractions.NotificationServices;
 
 public interface INotificationService
 {

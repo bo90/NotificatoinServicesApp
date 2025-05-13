@@ -2,6 +2,7 @@ using Infrastructure.Messaging.MessageContracts;
 using MassTransit;
 using Microsoft.Extensions.Logging;
 using Services.Abstractions;
+using Services.Abstractions.NotificationServices;
 
 namespace Infrastructure.Messaging.Consumers;
 

@@ -3,8 +3,8 @@ using Core.Entity;
 using Core.Entity.Events;
 using MassTransit;
 using Services.Abstractions;
+using Services.Abstractions.NotificationServices;
 using Services.Contracts.Notification;
-using Services.Contracts.NotificationDto;
 using Services.Repositories;
 
 namespace Services.Implementations;

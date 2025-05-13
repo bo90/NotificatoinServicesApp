@@ -2,6 +2,7 @@
 using MassTransit;
 using Microsoft.AspNetCore.Mvc;
 using Services.Abstractions;
+using Services.Abstractions.NotificationServices;
 using Services.Contracts.Notification;
 using WebApi.Models.Notification;
 
